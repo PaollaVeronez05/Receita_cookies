@@ -22,16 +22,7 @@ Praticar a criação de páginas web utilizando HTML
 
 Trabalhar com listas ordenadas e não ordenadas
 
-Estruturar o conteúdo de forma clara e organizada
 
-📂 Estrutura do projeto
-📦 receita-cookies
- ┣ 📜 index.html
- ┗ 📜 README.md
-
-🏗️ Estrutura Semântica do HTML
-
-Exemplo simplificado da estrutura usada no projeto:
 
 <!DOCTYPE html>
 <html lang="pt-BR">
