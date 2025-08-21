@@ -24,3 +24,38 @@ Trabalhar com listas ordenadas e não ordenadas
 
 Estruturar o conteúdo de forma clara e organizada
 
+🏗️ Estrutura Semântica do HTML
+
+Exemplo simplificado da estrutura usada no projeto:
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Receita de Cookies</title>
+  </head>
+  <body>
+    <h1>🍪 Receita de Cookies</h1>
+    
+    <h2>Ingredientes</h2>
+    <ul>
+      <li>2 xícaras de farinha de trigo</li>
+      <li>1 xícara de açúcar</li>
+      <li>1/2 xícara de manteiga</li>
+      <li>1 xícara de gotas de chocolate</li>
+    </ul>
+    
+    <h2>Modo de Preparo</h2>
+    <ol>
+      <li>Misture a manteiga e o açúcar.</li>
+      <li>Adicione a farinha e misture bem.</li>
+      <li>Coloque as gotas de chocolate.</li>
+      <li>Asse em forno pré-aquecido a 180°C por 15 minutos.</li>
+    </ol>
+  </body>
+</html>
+
+📸 Exemplo de visualização
+
+<img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/d42b0991-f247-4ffc-a349-320cbfd56125" />
+
