@@ -6,11 +6,11 @@ Este projeto é uma atividade em HTML que consiste na criação de uma página s
 
 Exibição do título e descrição da receita
 
-Lista de ingredientes organizada com <ul> e <li>
+Lista de ingredientes organizada 
 
-Passo a passo do modo de preparo utilizando <ol> e <li>
+Passo a passo do modo de preparo utilizando 
 
-Estrutura semântica da página com <head> e <body>
+Estrutura semântica da página 
 
 🛠️ Tecnologias utilizadas
 
